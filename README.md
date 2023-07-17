@@ -38,16 +38,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
   
-![Screenshot 2023-07-13 134538](https://github.com/trentree/ticket-lifecycle/assets/129711900/14625047-a913-42e5-9d10-280c37c5f670)
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-  
 ![Screenshot 2023-07-13 140431](https://github.com/trentree/ticket-lifecycle/assets/129711900/58f0bd9b-df3b-483c-9a25-4e947f32abe9)
 
 </p>
